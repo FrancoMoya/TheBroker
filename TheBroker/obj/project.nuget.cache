@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sOr0ObTEszo=",
+  "dgSpecHash": "z/R3+jhZbtw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\franc\\source\\repos\\TheBroker\\TheBroker.csproj",
+  "projectFilePath": "C:\\TheBrokerProgVI\\TheBroker\\TheBroker.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\franc\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\franc\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

@@ -4183,11 +4183,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\franc\\source\\repos\\TheBroker\\TheBroker.csproj",
+      "projectUniqueName": "C:\\TheBrokerProgVI\\TheBroker\\TheBroker.csproj",
       "projectName": "TheBroker",
-      "projectPath": "C:\\Users\\franc\\source\\repos\\TheBroker\\TheBroker.csproj",
+      "projectPath": "C:\\TheBrokerProgVI\\TheBroker\\TheBroker.csproj",
       "packagesPath": "C:\\Users\\franc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\franc\\source\\repos\\TheBroker\\obj\\",
+      "outputPath": "C:\\TheBrokerProgVI\\TheBroker\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

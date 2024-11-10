@@ -1,33 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\franc\\source\\repos\\TheBroker\\",
+  "WorkspaceRootPath": "C:\\TheBrokerProgVI\\TheBroker\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F07E6F60-F6D8-419D-9118-5DEB5D8094E9}|TheBroker.csproj|c:\\users\\franc\\source\\repos\\thebroker\\dtos\\listordersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F07E6F60-F6D8-419D-9118-5DEB5D8094E9}|TheBroker.csproj|solutionrelative:dtos\\listordersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F07E6F60-F6D8-419D-9118-5DEB5D8094E9}|TheBroker.csproj|c:\\users\\franc\\source\\repos\\thebroker\\controllers\\brokercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F07E6F60-F6D8-419D-9118-5DEB5D8094E9}|TheBroker.csproj|c:\\thebrokerprogvi\\thebroker\\controllers\\brokercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F07E6F60-F6D8-419D-9118-5DEB5D8094E9}|TheBroker.csproj|solutionrelative:controllers\\brokercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F07E6F60-F6D8-419D-9118-5DEB5D8094E9}|TheBroker.csproj|c:\\users\\franc\\source\\repos\\thebroker\\models\\dborderscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F07E6F60-F6D8-419D-9118-5DEB5D8094E9}|TheBroker.csproj|c:\\thebrokerprogvi\\thebroker\\dtos\\listordersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F07E6F60-F6D8-419D-9118-5DEB5D8094E9}|TheBroker.csproj|solutionrelative:dtos\\listordersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F07E6F60-F6D8-419D-9118-5DEB5D8094E9}|TheBroker.csproj|c:\\thebrokerprogvi\\thebroker\\models\\dborderscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F07E6F60-F6D8-419D-9118-5DEB5D8094E9}|TheBroker.csproj|solutionrelative:models\\dborderscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F07E6F60-F6D8-419D-9118-5DEB5D8094E9}|TheBroker.csproj|c:\\users\\franc\\source\\repos\\thebroker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{F07E6F60-F6D8-419D-9118-5DEB5D8094E9}|TheBroker.csproj|c:\\thebrokerprogvi\\thebroker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{F07E6F60-F6D8-419D-9118-5DEB5D8094E9}|TheBroker.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F07E6F60-F6D8-419D-9118-5DEB5D8094E9}|TheBroker.csproj|c:\\users\\franc\\source\\repos\\thebroker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F07E6F60-F6D8-419D-9118-5DEB5D8094E9}|TheBroker.csproj|c:\\thebrokerprogvi\\thebroker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F07E6F60-F6D8-419D-9118-5DEB5D8094E9}|TheBroker.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F07E6F60-F6D8-419D-9118-5DEB5D8094E9}|TheBroker.csproj|c:\\users\\franc\\source\\repos\\thebroker\\middlerware\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F07E6F60-F6D8-419D-9118-5DEB5D8094E9}|TheBroker.csproj|c:\\thebrokerprogvi\\thebroker\\middlerware\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F07E6F60-F6D8-419D-9118-5DEB5D8094E9}|TheBroker.csproj|solutionrelative:middlerware\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F07E6F60-F6D8-419D-9118-5DEB5D8094E9}|TheBroker.csproj|c:\\users\\franc\\source\\repos\\thebroker\\thebroker.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "AbsoluteMoniker": "D:0:0:{F07E6F60-F6D8-419D-9118-5DEB5D8094E9}|TheBroker.csproj|c:\\thebrokerprogvi\\thebroker\\thebroker.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{F07E6F60-F6D8-419D-9118-5DEB5D8094E9}|TheBroker.csproj|solutionrelative:thebroker.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     }
   ],
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,11 +50,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ListOrdersDTO.cs",
-              "DocumentMoniker": "C:\\Users\\franc\\source\\repos\\TheBroker\\DTOs\\ListOrdersDTO.cs",
+              "DocumentMoniker": "C:\\TheBrokerProgVI\\TheBroker\\DTOs\\ListOrdersDTO.cs",
               "RelativeDocumentMoniker": "DTOs\\ListOrdersDTO.cs",
-              "ToolTip": "C:\\Users\\franc\\source\\repos\\TheBroker\\DTOs\\ListOrdersDTO.cs",
+              "ToolTip": "C:\\TheBrokerProgVI\\TheBroker\\DTOs\\ListOrdersDTO.cs",
               "RelativeToolTip": "DTOs\\ListOrdersDTO.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -65,9 +65,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "ErrorHandlingMiddleware.cs",
-              "DocumentMoniker": "C:\\Users\\franc\\source\\repos\\TheBroker\\Middlerware\\ErrorHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\TheBrokerProgVI\\TheBroker\\Middlerware\\ErrorHandlingMiddleware.cs",
               "RelativeDocumentMoniker": "Middlerware\\ErrorHandlingMiddleware.cs",
-              "ToolTip": "C:\\Users\\franc\\source\\repos\\TheBroker\\Middlerware\\ErrorHandlingMiddleware.cs",
+              "ToolTip": "C:\\TheBrokerProgVI\\TheBroker\\Middlerware\\ErrorHandlingMiddleware.cs",
               "RelativeToolTip": "Middlerware\\ErrorHandlingMiddleware.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAgwCEAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -77,9 +77,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\franc\\source\\repos\\TheBroker\\appsettings.json",
+              "DocumentMoniker": "C:\\TheBrokerProgVI\\TheBroker\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\franc\\source\\repos\\TheBroker\\appsettings.json",
+              "ToolTip": "C:\\TheBrokerProgVI\\TheBroker\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -89,9 +89,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "DbOrdersContext.cs",
-              "DocumentMoniker": "C:\\Users\\franc\\source\\repos\\TheBroker\\Models\\DbOrdersContext.cs",
+              "DocumentMoniker": "C:\\TheBrokerProgVI\\TheBroker\\Models\\DbOrdersContext.cs",
               "RelativeDocumentMoniker": "Models\\DbOrdersContext.cs",
-              "ToolTip": "C:\\Users\\franc\\source\\repos\\TheBroker\\Models\\DbOrdersContext.cs",
+              "ToolTip": "C:\\TheBrokerProgVI\\TheBroker\\Models\\DbOrdersContext.cs",
               "RelativeToolTip": "Models\\DbOrdersContext.cs",
               "ViewState": "AgIAAFwAAAAAAAAAAAAAAHMAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -99,13 +99,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "BrokerController.cs",
-              "DocumentMoniker": "C:\\Users\\franc\\source\\repos\\TheBroker\\Controllers\\BrokerController.cs",
+              "DocumentMoniker": "C:\\TheBrokerProgVI\\TheBroker\\Controllers\\BrokerController.cs",
               "RelativeDocumentMoniker": "Controllers\\BrokerController.cs",
-              "ToolTip": "C:\\Users\\franc\\source\\repos\\TheBroker\\Controllers\\BrokerController.cs",
+              "ToolTip": "C:\\TheBrokerProgVI\\TheBroker\\Controllers\\BrokerController.cs",
               "RelativeToolTip": "Controllers\\BrokerController.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAowE8AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-07T20:28:55.219Z",
               "EditorCaption": ""
@@ -114,9 +114,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\franc\\source\\repos\\TheBroker\\Program.cs",
+              "DocumentMoniker": "C:\\TheBrokerProgVI\\TheBroker\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\franc\\source\\repos\\TheBroker\\Program.cs",
+              "ToolTip": "C:\\TheBrokerProgVI\\TheBroker\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAD8AAAAAAAAAAAAAABMAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -126,9 +126,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "TheBroker.http",
-              "DocumentMoniker": "C:\\Users\\franc\\source\\repos\\TheBroker\\TheBroker.http",
+              "DocumentMoniker": "C:\\TheBrokerProgVI\\TheBroker\\TheBroker.http",
               "RelativeDocumentMoniker": "TheBroker.http",
-              "ToolTip": "C:\\Users\\franc\\source\\repos\\TheBroker\\TheBroker.http",
+              "ToolTip": "C:\\TheBrokerProgVI\\TheBroker\\TheBroker.http",
               "RelativeToolTip": "TheBroker.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",

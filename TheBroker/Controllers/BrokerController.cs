@@ -8,7 +8,7 @@ using TheBroker.Models;
 namespace TheBroker.Controllers
 
 {
-    //[Authorize]
+    [Authorize]
     [Route("api/[controller]")]
     [ApiController]
     public class BrokerController : ControllerBase
